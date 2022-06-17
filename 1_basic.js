@@ -34,4 +34,7 @@ console.log("hello w''\orld")            //hello w''orld
 // var b=Array(true,false)
 // console.log(b,typeof b)                     //[ true, false ] object
 // var c=Array([45,89])
-// console.log(c,typeof c)                     //[ [ 45, 89 ] ] objectṇ
+// console.log(c,typeof c)                     //[ [ 45, 89 ] ] object
+
+
+
